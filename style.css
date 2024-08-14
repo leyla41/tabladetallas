@@ -17,20 +17,6 @@ body {
     max-width: 500px;
     width: 80%;
 }
-h1 {
-    font-family: 'Dancing Script', cursive;
-    text-align: center;
-    color: #8c1f1f;
-    font-size: 3rem;
-    margin-bottom: 1.5rem;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
-}
-h3 {
-    font-family: 'Dancing Script';
-    text-align: center;
-    font-size: 2rem;
-
-}
 .input-group {
     margin-bottom: 1.5rem;
 }
@@ -49,11 +35,11 @@ input {
     font-family: 'Playfair Display', serif;
 }
 button {
-    background-color: #8c1f1f;
-    color: #fff;
+    background-color: #f5a5a5;
+    color: #242222;
     border: none;
     padding: 0.75rem 1.5rem;
-    font-size: 1.7rem;
+    font-size: 1.4rem;
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -62,7 +48,7 @@ button {
     font-weight: bold;
 }
 button:hover {
-    background-color: #6b1717;
+    background-color: #b47b7b;
     transform: scale(1.05);
 }
 #result {
